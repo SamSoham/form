@@ -27,7 +27,7 @@ body{
 }
  .container input{
      background: none;
-     font-size: 20px;
+     font-size: 17px;
      padding: 7px;
      border: none;
      border-bottom: 2px solid rgb(63, 13, 156);
@@ -37,7 +37,7 @@ body{
  .btn{
      cursor: pointer;
      border-radius: 10px;
-     width: 25%;
+     width: 30%;
      padding: 10px 21px;
      margin: 10px 0px;
      outline: none;
@@ -48,4 +48,10 @@ body{
 .btn:hover{
     background: whitesmoke;
     color: blueviolet;
+}
+.box a{
+   color: aquamarine;
+}
+.box{
+    padding: 10px;
 }
